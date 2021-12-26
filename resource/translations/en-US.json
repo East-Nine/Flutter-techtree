@@ -1,0 +1,20 @@
+{
+  "sign_in": {
+    "title" : "hello",
+    "content" : "Welcome back you've been missed!",
+    "user_email_hint": "Enter e-mail",
+    "password_hint": "Enter password",
+    "recovery_password": "Recovery password",
+    "not_member_header" : "Not a member?",
+    "not_member_join" : "Register now",
+    "continue_with" : "Or continue with",
+    "button" : "Sign In"
+  },
+  "sign_up": {
+    "title" : "Register",
+    "user_email_hint": "Enter e-mail",
+    "password_hint": "Enter password",
+    "terms": "terms",
+    "button" : "Sign Up"
+  }
+}

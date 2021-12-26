@@ -1,0 +1,20 @@
+{
+  "sign_in": {
+    "title" : "반가워요",
+    "content" : "오신것을 환영해요!",
+    "user_email_hint": "이메일",
+    "password_hint": "비밀번호",
+    "recovery_password": "비밀번호 복구",
+    "not_member_header" : "아직 회원이 아닌가요?",
+    "not_member_join" : "가입하기",
+    "continue_with" : "다른 로그인",
+    "button" : "로그인"
+  },
+  "sign_up": {
+    "title" : "회원가입",
+    "user_email_hint": "이메일",
+    "password_hint": "비밀번호",
+    "terms": "약관",
+    "button" : "가입하기"
+  }
+}
